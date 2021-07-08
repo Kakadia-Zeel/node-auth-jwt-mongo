@@ -20,7 +20,7 @@ I have thourougly followed his playlist on his Youtube Channel --> [Link to Play
 * Mongoose to model data
 * Bcrypt for hashing passwords
 
-# Screenshots
+### Screenshots
 ![](./screenshots/s1.JPG)
 ![](./screenshots/s2.JPG)
 ![](./screenshots/s3.JPG)
